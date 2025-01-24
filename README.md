@@ -40,9 +40,7 @@
 </a>
 </p>
 
-<div align="center" style="display: flex; align-items: center; flex-direction: column;">
-  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" alt="Developer GIF" width="300" />
-</div>
+
 
 
 <h3 align="center">GitHub Stats & Most Used Languages:</h3>
