@@ -1,50 +1,44 @@
 <h1 align="center">Hi 👋, I'm Amit More</h1>
 <h3 align="center">Full Stack Developer 💻 | React ⚛️ | Node.js 🌐 | Express.js 🚀 | MongoDB 🗃️ | Git 🧑‍💻 | Power BI 📊 | Team Player 🤝 | Learning Trading 📈</h3>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=amitmore-007&label=Profile%20views&color=0e75b6&style=flat" alt="amitmore-007" /> </p>
+# 💫 About Me:
+🚀 Currently Working on Giftcard Management System.<br> 📍 Ask Me about React, Node, Express, Power BI.<br>😇 Your code works perfectly... until the demo: It's almost like bugs love to show up in front of your boss or client.<br>
 
-<h3 align="center">Trophies:</h3>
-<p align="center"> 
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=amitmore-007&theme=onedark&column=8&margin-w=15&margin-h=15" alt="amitmore-007" />
-  </a>
-</p>
+<h1 align="center">🏆 Trophies</h1>
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=amitmore-007&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4" />
+</div>
 
-<div style="margin-top: 40px;">
-  <h3 align="center">Languages and Tools:</h3>
-<p align="center">
-  <img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" alt="java" width="65" height="65"/>
-  <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" alt="react" width="55" height="55"/>
+## 🌐 Socials:
 
-  <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" alt="Nodejs" width="55" height="55"/>
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="GIT" width="55" height="55"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" alt="Power BI" width="55" height="55"/>
-  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="55" height="55"/>
-  <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="55" height="55"/>
-  <img src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-icon.svg" alt="Bootstrap" width="55" height="55"/>
-  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" width="55" height="55"/>
-  <img src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" alt="mysql" width="45" height="55"/>
-  <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" alt="mongodb" width="45" height="55"/>
-</p>
+  <a href="https://instagram.com/amitmore_7"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" alt="Instagram" /></a>
+  <a href="https://linkedin.com/in/amit-more-57a646249"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+
+
+# 💻 Tech Stack:
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=for-the-badge&logo=reacthookform&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) ![Prettier](https://img.shields.io/badge/prettier-%23F7B93E.svg?style=for-the-badge&logo=prettier&logoColor=black)
+
+<h1 align="center"> 📊 Github Stats</h1>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=amitmore-007&theme=solarized-dark&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats" style="width:45%; margin: 20px;" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=amitmore-007&theme=solarized-dark&hide_border=false" alt="GitHub Streak" style="width:45%; margin: 20px;" />
+</div>
+<div align="center" style="margin-top: 40px;">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amitmore-007&theme=solarized-dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" style="margin-top: 20px;" />
 </div>
 
 
-- 🌱 I’m currently learning **Data Structures and Algorithms (Java) | Expertise in Power BI | Data Analytics**
+### ✍️ Random Dev Quote
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote" />
+</div>
 
-- 📫 How to reach me **amore43035@gmail.com**
+### 🔝 Top Contributed Repo
+<div align="center">
+  <img src="https://github-contributor-stats.vercel.app/api?username=amitmore-007&limit=5&theme=dark&combine_all_yearly_contributions=true" alt="Top Contributed Repo" />
+</div>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://instagram.com/amitmore_7" target="blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="amitmore_7" height="30" width="40" />
-</a>
-</p>
-
-
-
-
-<h3 align="center">GitHub Stats & Most Used Languages:</h3>
-<p align="center">
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=amitmore-007&show_icons=true&locale=en&theme=radical" alt="amitmore-007" width="48%" />
-  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=amitmore-007&show_icons=true&locale=en&layout=compact&langs_count=5&theme=radical&card_width=400" alt="amitmore-007" width="48%" />
-</p>
+---
+<div align="center">
+  <a href="https://visitcount.itsvg.in"><img src="https://visitcount.itsvg.in/api?id=amitmore-007&icon=4&color=0" alt="Visit Count" /></a>
+</div>
