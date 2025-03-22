@@ -2,7 +2,7 @@
 <h3 align="center">Full Stack Developer 💻 | React ⚛️ | Node.js 🌐 | Express.js 🚀 | MongoDB 🗃️ | Git 🧑‍💻 | Power BI 📊 | Team Player 🤝 | Learning Trading 📈</h3>
 
 # 💫 About Me:
-🚀 Currently Working on Giftcard Management System.<br> 📍 Ask Me about React, Node, Express, Power BI.<br>😇 Your code works perfectly... until the demo: It's almost like bugs love to show up in front of your boss or client.<br>
+🚀 Currently Working on a Workout Planner Platform .<br> 📍 Ask Me about React, Node, Express, Power BI.<br>😇 Your code works perfectly... until the demo: It's almost like bugs love to show up in front of your boss or client.<br>
 
 <h1 align="center">🏆 Trophies</h1>
 <div align="center">
