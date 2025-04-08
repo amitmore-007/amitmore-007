@@ -1,5 +1,5 @@
 <h1 align="center">Hello 👋, I'm Amit More</h1>
-<h3 align="center">Full Stack Developer 💻 | React ⚛️ | Node.js 🌐 | Express.js 🚀 | MongoDB 🗃️ | Git 🧑‍💻 | Java ♨️ | Power BI 📊 | Team Player 🤝 | Learning Trading 📈</h3>
+<h3 align="center">Full Stack Developer 💻 | React ⚛️ | Node.js 🌐 | Express.js 🚀 | MongoDB 🗃️ | Git 🧑‍💻 | Java ♨️ | Generative AI | Power BI 📊 | Team Player 🤝 | Learning Trading 📈</h3>
 
 # 💫 About Me:
 🚀 Currently working on a fitness focused website providing workout and diet plans based on user goals.<br> 📍 Ask Me about React, Node, Express, Power BI, Java.<br>😇 Your code works perfectly... until the demo: It's almost like bugs love to show up in front of your boss or client.<br>
